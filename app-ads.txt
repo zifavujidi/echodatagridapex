@@ -1,0 +1,46 @@
+﻿# ECHODATAGRIDAPEX - Authorized Digital Sellers for Apps
+# This file lists authorized sellers of in-app advertising inventory for our mobile applications.
+# Format: https://iabeurope.eu/tcf-for-vendors/
+# Last updated: 2026-06-01
+
+# Google AdMob
+google.com, pub-3940256099942544, DIRECT, f08c47fec0942fa0
+google.com, pub-XXXXXXXXXXXXXXXX, DIRECT, f08c47fec0942fa0
+
+# AppLovin MAX
+applovin.com, 5e7f4f30c4b4d35e8b3e9a4d, DIRECT
+applovin.com, XXXXXXXXXXXXXXXXXXXXXXXX, DIRECT
+
+# Unity LevelPlay (ironSource)
+ironsrc.com, XXXXXXXXXXXXXXXXXXXXXXXX, DIRECT
+unity.com, XXXXXXXXXXXXXXXXXXXXXXXX, DIRECT
+
+# Meta Audience Network
+facebook.com, XXXXXXXXXXXXXXXX, DIRECT
+
+# Pangle (TikTok / ByteDance)
+pangle.io, XXXXXXXXXXXXXXXXXXXXXXXX, DIRECT
+bytedance.com, XXXXXXXXXXXXXXXXXXXXXXXX, DIRECT
+
+# Mintegral
+mintegral.com, XXXXXXXXXXXXXXXXXXXXXXXX, DIRECT
+
+# InMobi
+inmobi.com, XXXXXXXXXXXXXXXXXXXXXXXX, DIRECT
+
+# Vungle (Liftoff)
+vungle.com, XXXXXXXXXXXXXXXXXXXXXXXX, DIRECT
+liftoff.io, XXXXXXXXXXXXXXXXXXXXXXXX, DIRECT
+
+# Digital Turbine
+digitalturbine.com, XXXXXXXXXXXXXXXXXXXXXXXX, DIRECT
+
+# Chartboost (now part of Zynga / Take-Two)
+chartboost.com, XXXXXXXXXXXXXXXXXXXXXXXX, DIRECT
+
+# TapJoy
+tapjoy.com, XXXXXXXXXXXXXXXXXXXXXXXX, DIRECT
+
+# Contact Information
+# Business: contact@echodatagridapex.com
+# Support: support@echodatagridapex.com

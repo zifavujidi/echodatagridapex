@@ -1,0 +1,15 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 60" width="200" height="60">
+<defs>
+<linearGradient id="g1" x1="0%" y1="0%" x2="100%" y2="100%">
+<stop offset="0%" stop-color="#00d4ff"/>
+<stop offset="50%" stop-color="#0066ff"/>
+<stop offset="100%" stop-color="#8b5cf6"/>
+</linearGradient>
+</defs>
+<g transform="translate(8,8)">
+<path d="M22 0 L44 12 L44 36 L22 48 L0 36 L0 12 Z" fill="none" stroke="url(#g1)" stroke-width="2" opacity="0.4"/>
+<path d="M12 12 L32 12 L32 17 L17 17 L17 22 L28 22 L28 27 L17 27 L17 32 L32 32 L32 37 L12 37 Z" fill="url(#g1)"/>
+</g>
+<text x="60" y="32" font-family="Arial" font-size="18" font-weight="800" fill="#ffffff">ECHO<tspan fill="url(#g1)">DATA</tspan>GRID</text>
+<text x="60" y="48" font-family="Arial" font-size="8" font-weight="600" fill="#666" letter-spacing="2">APEX SYSTEMS</text>
+</svg>

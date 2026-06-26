@@ -1,0 +1,16 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" width="1200" height="630">
+<defs>
+<linearGradient id="ogGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+<stop offset="0%" stop-color="#00d4ff"/>
+<stop offset="50%" stop-color="#0066ff"/>
+<stop offset="100%" stop-color="#8b5cf6"/>
+</linearGradient>
+</defs>
+<rect width="1200" height="630" fill="#0a0a0a"/>
+<circle cx="600" cy="315" r="200" stroke="url(#ogGrad)" stroke-width="3" fill="none" opacity="0.3"/>
+<circle cx="600" cy="315" r="120" stroke="url(#ogGrad)" stroke-width="3" fill="none" opacity="0.6"/>
+<text x="600" y="290" text-anchor="middle" fill="#ffffff" font-family="Arial" font-size="72" font-weight="800">ECHODATAGRIDAPEX</text>
+<text x="600" y="350" text-anchor="middle" fill="url(#ogGrad)" font-family="Arial" font-size="32" font-weight="600">Innovation. Privacy. Experience.</text>
+<text x="600" y="430" text-anchor="middle" fill="#999" font-family="Arial" font-size="22">UK-Based R&D Studio 路 St John`s Innovation Centre</text>
+<text x="600" y="465" text-anchor="middle" fill="#666" font-family="Arial" font-size="18">Programmatic Tech 路 Privacy-First Apps 路 2026 Global Compliance</text>
+</svg>

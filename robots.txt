@@ -1,0 +1,9 @@
+﻿# ECHODATAGRIPAPEX Robots.txt
+# Last updated: 2026-06-01
+
+User-agent: *
+Allow: /
+Disallow: /admin/
+Disallow: /private/
+
+Sitemap: https://www.echodatagridapex.com/sitemap.xml
